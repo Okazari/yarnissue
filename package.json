@@ -11,6 +11,6 @@
   "dependencies": {
     "docz": "^2.2.0",
     "react-dom": "^16.13.0",
-    "react-native": "^0.61.5"
+    "react-native": "^0.62.3"
   }
 }
